@@ -51,3 +51,11 @@ Absolutely. You are in sole control of your account. Accounts can be sent, sold,
 Any group that is working to create place-based resilience can apply for a name. Simply [contact us](https://x.com/ensitus\_xyz) to get started.
 
 </details>
+
+<details>
+
+<summary>Is SITUS the same as BASIN?</summary>
+
+SITUS was conceived of and built by BASIN Natural Capital to scale nature and ecosystem projects. .basin is an OG (onchain group) that offers natural capital valuation and acts as the real asset layer of the SITUS Protocol.
+
+</details>
